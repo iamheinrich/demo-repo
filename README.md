@@ -6,3 +6,6 @@ Some plain text!
 
 Some more text.
 
+## Local Development
+
+1. Open Index.html in your browser
